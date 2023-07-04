@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritaarora0902)](https://github.com/amritaarora0902/github-readme-stats)
-<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritaarora0902&show_icons=true)
 **amritaarora0902/amritaarora0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
