@@ -10,4 +10,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=roadsidecoder&color=blue&style=flat&label=Profile+Views)
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=yourusername&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=amritaarora2424&theme=dark)
