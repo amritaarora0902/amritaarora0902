@@ -9,3 +9,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-arora-155602171/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=roadsidecoder&color=blue&style=flat&label=Profile+Views)
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=yourusername&theme=dark)
